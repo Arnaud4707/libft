@@ -1,2 +1,2 @@
-.out
-/log
+*.out
+.setting.sh
