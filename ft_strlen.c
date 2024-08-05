@@ -14,6 +14,6 @@ int ft_strlen(char *c)
 
 int	main(void)
 {
-	printf("nb mot %d\n", ft_strlen("bonjour"));
+	printf("Bonjour\nnb mot %d\n", ft_strlen("bonjour"));
 	return 0;
 }
